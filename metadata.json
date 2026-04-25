@@ -1,0 +1,6 @@
+{
+  "name": "AgroConseil AO",
+  "description": "Expert agronome virtuel pour les exploitants d'Afrique de l'Ouest. Diagnostic, météo et conseils accessibles.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI-powered crop diagnosis", "Weather-aware agricultural advice", "Multilingual support"]
+}
